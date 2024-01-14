@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
 This is a java Rock Paper Scissors game created during a course with the help of three group mates. Ayan Noorani and I were the major contributors for the programming aspect of the assignment.
 
-The premise is simple: You agaisnt the computer in a one-on-one match of rock paper scissors.
+The premise is simple: You against the computer in a one-on-one match of rock paper scissors.
 Rock beats scissors, paper beats rock and scissors beats paper.
 
 After each round, the winner will be awarded with a point. The first player to 5 points wins the game. If a round is tied, no points will be awarded.
